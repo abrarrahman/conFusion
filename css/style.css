@@ -36,3 +36,7 @@ body{
   border-top: none;
   padding: 10px;
 }
+#accordion a{
+  color: black;
+  text-decoration: none;
+}
